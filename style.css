@@ -1013,6 +1013,9 @@ body.nav-active {overflow: hidden;}
     font-weight: bold;
     color: #333; 
 }
+.pasta-size-price .size-p {
+    margin-bottom: 4px;
+}
 
 
 
