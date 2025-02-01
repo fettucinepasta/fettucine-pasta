@@ -928,7 +928,10 @@ body.nav-active {overflow: hidden;}
     gap: 20px;
 }
 .menu .extra {
+    text-align: center;
     margin-top: 100px;
+    color: #7b7b7b;
+    font-size: 16px;
 }
 .hover\:card .card-banner { background-color: var(--gold-crayola);}
 
