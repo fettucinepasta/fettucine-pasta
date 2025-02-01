@@ -826,6 +826,12 @@ body.nav-active {overflow: hidden;}
     margin-block-end: 26px;
     z-index: 1;
 }
+.service-card .img-cover {
+    max-width: 200px;
+    max-height: 236px;
+    width: auto;
+    height: auto;
+}
 
 .service-card .has-before::before {
     top: 0;
