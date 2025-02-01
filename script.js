@@ -136,7 +136,7 @@ addEventOnElements([heroSliderNextBtn, heroSliderPrevBtn], "mouseover", function
 
 
 addEventOnElements([heroSliderNextBtn, heroSliderPrevBtn], "mouseout", autoSlide);
-window.addEventListener("load", autoSlide);
+// window.addEventListener("load", autoSlide);
 
 
 
