@@ -930,8 +930,8 @@ body.nav-active {overflow: hidden;}
 .menu .extra {
     text-align: center;
     margin-top: 100px;
-    color: #c2c1c1;
-    font-size: 32px;
+    color: #e2dfdf;
+    font-size: 34px;
 }
 .hover\:card .card-banner { background-color: var(--gold-crayola);}
 
