@@ -1024,6 +1024,17 @@ body.nav-active {overflow: hidden;}
     margin-bottom: 1px;
 }
 
+.pcard hr {
+    height: 0.5px;
+    background-color: #7b7b7b;
+    border: none;
+    margin: 5px 0;
+    opacity: 0.7;
+}
+.pcard .size-label{
+    font-size: 12px;
+    color: #7b7b7b;
+}
 
 
 
